@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/piotrkucia95/electron-tutorial#readme",
   "dependencies": {
-    "electron": "^6.0.12"
+    "electron": "^9.4.0"
   },
   "devDependencies": {
     "electron-packager": "^14.0.6"
